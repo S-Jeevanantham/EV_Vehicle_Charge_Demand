@@ -37,6 +37,10 @@ The project uses Electric Vehicle population and charging-related datasets for t
 * Energy demand forecasting
 * Smart city infrastructure planning
 
+##🚀 Live Demo:
+https://ev-forecast-dashboard.streamlit.app
+
+
 ## Author
 
 Jeevanantham S
